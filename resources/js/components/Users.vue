@@ -2,9 +2,7 @@
     <div class="container">
         <div class="row mt-5">
           <div class="col-md-12">
-           <div align="center">
-                <a  href="/export_excel.excel" class="btn btn-success">Export to Excel</a>
-           </div>
+          
            <br/>
             <div class="card">
               <div class="card-header">
